@@ -1,3 +1,3 @@
 # demoRepository
 
-Good Stuff, man
+Good Stuff
